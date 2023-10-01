@@ -1,3 +1,4 @@
+![iStock_000067818737_Small](https://github.com/raul2129/raul2129/assets/145803241/2415c977-dc8d-4193-ac6d-518a2d28fcaf)
 <h1 align="center">Hola 👋, Me llamo Raúl Cortés</h1>
 <h3 align="center">Soy un Frontend apasionado</h3>
 
